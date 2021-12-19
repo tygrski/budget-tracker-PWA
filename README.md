@@ -9,5 +9,5 @@
 
 ![Budget Tracker](https://user-images.githubusercontent.com/77369211/146688210-caed4d1a-d33e-4215-8913-8640011de6bd.jpg)
 
-## Made with 
+## Made with JavaScript, Mongoose 
 ### Created by: Travis Tybor
