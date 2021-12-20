@@ -3,8 +3,8 @@
 ## Budget Tracking App To Keep A Visual Representation Of Your Expenses. Add or subtrack to your budget
 
 ## Instructions<br/>
--run npm init commpand in the terminal
--run npm i
+- run npm init commpand in the terminal
+- run npm i
 - run the command npm start in the termianl 
 - type http://localhost:3001/ in your browser
 - enter your expenses and choose add or delete
@@ -14,5 +14,5 @@
 ## Made with:
 * ✔️JavaScript
 * ✔️Mongoose 
-* 
+
 ### Created by: Travis Tybor
