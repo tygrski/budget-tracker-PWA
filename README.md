@@ -1,6 +1,6 @@
 # Budget Tracker
 
-## Budget Tracking App To Keep A Visual Representation Of Your Expenses. Add or subtrack to your budget
+## Budget Tracking App To Keep A Visual Representation Of Your Expenses. Add or Subtrack to your budget
 
 ## Instructions<br/>
 - run npm init commpand in the terminal
